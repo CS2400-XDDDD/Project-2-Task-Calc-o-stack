@@ -1,4 +1,4 @@
-# CS2400-Project-1-Operation-Bagsome
+# CS2400 Project 2: Task Calc-o-stack
 
 ## Group Name
 XDDDD
