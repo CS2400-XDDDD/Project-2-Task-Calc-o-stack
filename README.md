@@ -19,4 +19,4 @@ Mason Orton - first half of convertToPostfix
 
 ## Extra features implemented: created calculateExpression in Calculator.java which basically does the automation for convertToPostfix and then evaluatePostfix
 
-## Link to screencast:
+## Link to screencast: https://youtu.be/VcZ5zrWwvkA
